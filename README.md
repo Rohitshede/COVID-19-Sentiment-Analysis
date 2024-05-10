@@ -1,5 +1,5 @@
 # COVID-19 Tweets Sentiment Analysis
-
+ 
 ## Overview
 This project aims to perform sentiment analysis on tweets related to COVID-19. With the outbreak of the pandemic, social media platforms have become a significant source of information and expression of public sentiment. Analyzing tweets can provide insights into public opinions, concerns, and emotions regarding the COVID-19 situation.
 
