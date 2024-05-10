@@ -8,7 +8,7 @@ This project aims to perform sentiment analysis on tweets related to COVID-19. W
 - Libraries: NLTK, scikit-learn, pandas, numpy, matplotlib, seaborn
 - Jupyter Notebook (for running the analysis)
 
-## Data
+## Data 
 - The dataset used in this project consists of tweets collected using kaggle that you can find here: [data](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification).
 - Data preprocessing techniques such as text cleaning, tokenization, and lemmatization are applied to prepare the text data for sentiment analysis.
 
